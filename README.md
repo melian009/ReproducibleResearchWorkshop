@@ -5,5 +5,5 @@ The goals of this "hands on workshop" are
 2. Fussioning data and codes in a unique doc and attach them to data- and code-bases when submitting papers to journals, and 
 3. Facilitate the public, other scientists, skateholders, practicioners, etc, the reproducibility of our research and the implementation of science-based  biodiversity management.
 
-##Additional resources:
+## Additional resources:
 * A Guide to Reproducible Code in Ecology and Evolution. British Ecological Society. https://www.britishecologicalsociety.org/publications/guides-to/
