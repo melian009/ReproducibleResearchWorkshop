@@ -1,2 +1,2 @@
-Please install git from this link
-https://git-scm.com/downloads
+# Git: using version control in a collobarative network
+My slides and hands-on tutorials are in the PDF files.
