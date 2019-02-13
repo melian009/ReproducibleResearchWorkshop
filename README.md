@@ -7,3 +7,13 @@ The goals of this "hands on workshop" are
 
 ## Additional resources:
 * A Guide to Reproducible Code in Ecology and Evolution. British Ecological Society. https://www.britishecologicalsociety.org/publications/guides-to/
+
+
+
+#Contains the documents discussed in the 2nd Reproducible Research workshop celebrated in Kastanienbaum, Switzerland, February 6 2019
+The folder 2nd.ReproducibleResearchWorkshop.FEB2019 contains the program and the Talks. 
+
+Summary
+1. Starting to develop an informal guidelines for reproducible research 
+2. Organize a future clinic or workshop to work with open reproducible research platforms like Renku (SDSC) and others.
+
